@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdshahadatalam](https://github.com/mdshahadatalam)
 
-- 💬 Ask me about **JavaScript/React.js**
+- 💬 Ask me about **Anything🤗**
 
 - 📫 How to reach me **mdshahadatalam25@gmail.com**
 
